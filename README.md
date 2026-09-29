@@ -4,6 +4,8 @@ Calotrak is a colorful Android calorie tracker. You name the person the log is f
 
 This app carries over the browser Calotrak log and adds a screen for opening older days.
 
+![Today screen of Calotrak, showing the person field, 2,000 calories left, the daily goal, and the add-food form](docs/today-screen.png)
+
 ## Features
 
 - Record the name of the person the log is for.
